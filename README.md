@@ -5,4 +5,4 @@ Having knowledge of Computational Hardware, ancestry in WEB / JAVA programming l
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Reis-Silva&show_icons=true&theme=great-gatsby)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Reis-Silva&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Reis-Silva&layout=compact&theme=great-gatsby)
